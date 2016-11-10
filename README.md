@@ -1,11 +1,13 @@
-# suppr
-
 <h1>NOM DU PROJET </h1>
 
-Donc readme et bha le fichier de présentation de notre projet 
+<h2> Présentation du projet</h2>
+	sujet du projets 
 
-le plus importants c'est savoir comment on utiliser github 
+<h2> commandes utiles </h2>
 
-il y à plusieurs commande à connaitre par coeur et plus que cela comprendre l'intêret de toutes ces cmds 
+git status -> permet de connaitres les fichiers modifiés
 
+<h2> comment ça fonctionne </h2>
+
+git est disposer en branches .... 
 
